@@ -1,0 +1,19 @@
+# Django #
+**/__pycache__/
+**/migrations/
+*.pyc
+*.log
+*.pot
+*.sqlite3
+
+#Sensitive files
+.DS_Store
+
+#idea
+.idea
+
+#.env
+blogp_roject/blog_project/
+.env
+
+pyblogproj-login.json
